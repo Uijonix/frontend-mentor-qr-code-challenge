@@ -8,7 +8,6 @@
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -19,8 +18,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](Uijonix/frontend-mentor-qr-code-challenge)
+- Live Site URL: [live site](https://uijonix.github.io/frontend-mentor-qr-code-challenge/)
 
 ## My process
 
@@ -42,4 +41,4 @@ Still struggle with giving elements good enough names. I spend alot of time thin
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@TIceDev72](https://www.frontendmentor.io/profile/TIceDev72)
